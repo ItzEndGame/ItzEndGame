@@ -1,10 +1,11 @@
-# 💫 About Me:
+# Hi, I'm Faynaf Sherif 👋
 
-Computer Science student focused on building intelligent, end-to-end systems across AI, full-stack development, and cybersecurity. Experienced in machine learning, Python, React, and API integrations, with an emphasis on transforming models into scalable real-world applications.
-
-Recently developed an Emotion Detection and Music Recommendation System integrating machine learning, the Spotify API, and Supabase to deliver personalized recommendations through a production-style pipeline.
-
-Also part of Team 1nf1n1ty, actively working on cryptography, web exploitation, and binary exploitation challenges to strengthen system-level security knowledge and problem-solving skills.
+🎓 Computer Science student passionate about AI, full-stack development, and cybersecurity
+🤖 Building intelligent, end-to-end systems with machine learning and real-world integrations
+🎵 Developed an Emotion Detection & Music Recommendation System using ML, Spotify API, and Supabase
+💻 Experienced with Python, React, APIs, and modern web technologies
+🔐 Part of Team 1nf1n1ty, working on cryptography, web exploitation, and binary exploitation challenges
+🚀 Interested in scalable AI-driven applications and software engineering challenges
 
 ## 🌐 Socials:
 
